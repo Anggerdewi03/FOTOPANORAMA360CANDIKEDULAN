@@ -481,7 +481,7 @@ function pano2vrSkin(player,base) {
 			return player.getCurrentNode();
 		}
 		me._button_3.onclick=function (e) {
-			player.openUrl("https:\/\/anggerdewi03.github.io\/CandiKedulan\/indeks.html#section-two","");
+			player.openUrl("https:\/\/anggerdewi03.github.io\/CandiKedulan\/index.html#section-two","");
 			player.setVolume("_main",0);
 		}
 		me._button_3.ggUpdatePosition=function (useTransition) {
